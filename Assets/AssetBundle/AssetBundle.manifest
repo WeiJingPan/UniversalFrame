@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 825404517
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab/scenes/load.ld
+      Dependencies: {}
+    Info_1:
+      Name: ab/scenes/loadtwo.ld
+      Dependencies: {}
